@@ -1,0 +1,19 @@
+.brand {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100%; 
+}
+
+.brand div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem; 
+}
+
+.brand img {
+    width: 100px; 
+    height: 50px; 
+    object-fit: contain; 
+}
